@@ -1,0 +1,38 @@
+﻿/* Add Amazon-style footer styles here */
+.footer {
+    background-color: cadetblue;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: auto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+    .footer h5 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+}
+
+    .footer-links li {
+        margin-bottom: 10px;
+    }
+
+    .footer-links a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+        .footer-links a:hover {
+            color: #cfd8dc;
+        }
